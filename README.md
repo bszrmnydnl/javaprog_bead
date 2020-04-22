@@ -1,0 +1,2 @@
+# javaprog_bead
+hello
