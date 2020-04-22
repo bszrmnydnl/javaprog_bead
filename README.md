@@ -1,5 +1,7 @@
 Java programozás
+================
 Féléves feladat
+===============
 
 
 *Könyvtár - könyvek: azonosító, szerző, cím, megjelenés dátuma, státusz (szabad,
