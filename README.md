@@ -1,7 +1,6 @@
----
-subtitle: Java programozás
-title: Féléves feladat
----
+Java programozás
+Féléves feladat
+
 
 *Könyvtár - könyvek: azonosító, szerző, cím, megjelenés dátuma, státusz (szabad,
 kikölcsönzött, selejt)*
