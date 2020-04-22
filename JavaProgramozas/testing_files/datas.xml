@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <könyv>
+      <Szerz?>Dmitry Glukhovsky</Szerz?>
+      <Cím>Metro 2033</Cím>
+      <Státusz>szabad</Státusz>
+      <Azonosító>1</Azonosító>
+      <Megjelenés_dátuma>1038006000000</Megjelenés_dátuma>
+    </könyv>
+  </row>
+  <row>
+    <könyv>
+      <Szerz?>Dan Brown</Szerz?>
+      <Cím>Da-Vinci kód</Cím>
+      <Státusz>kikölcsönzött</Státusz>
+      <Azonosító>2</Azonosító>
+      <Megjelenés_dátuma>1268910000000</Megjelenés_dátuma>
+    </könyv>
+  </row>
+  <row>
+    <könyv>
+      <Szerz?>Douglas Adams</Szerz?>
+      <Cím>Galaxis útikalauz stopposoknak</Cím>
+      <Státusz>selejt</Státusz>
+      <Azonosító>4</Azonosító>
+      <Megjelenés_dátuma>564646546000</Megjelenés_dátuma>
+    </könyv>
+  </row>
+  <row>
+    <könyv>
+      <Szerz?>Barna Dániel</Szerz?>
+      <Cím>Dávincsi Kaud</Cím>
+      <Státusz>kikölcsönzött</Státusz>
+      <Azonosító>5</Azonosító>
+      <Megjelenés_dátuma>1588168257897</Megjelenés_dátuma>
+    </könyv>
+  </row>
+  <row>
+    <könyv>
+      <Szerz?>Andrzej Sapkowski</Szerz?>
+      <Cím>Vaják</Cím>
+      <Státusz>szabad</Státusz>
+      <Azonosító>3</Azonosító>
+      <Megjelenés_dátuma>861889931696</Megjelenés_dátuma>
+    </könyv>
+  </row>
+</root>

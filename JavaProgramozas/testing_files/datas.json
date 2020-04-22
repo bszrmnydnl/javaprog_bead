@@ -1,0 +1,47 @@
+[
+   {
+      "könyv":{
+         "Szerző":"Dmitry Glukhovsky",
+         "Cím":"Metro 2033",
+         "Státusz":"szabad",
+         "Azonosító":1,
+         "Megjelenés dátuma":1038006000000
+      }
+   },
+   {
+      "könyv":{
+         "Szerző":"Dan Brown",
+         "Cím":"Da-Vinci kód",
+         "Státusz":"kikölcsönzött",
+         "Azonosító":2,
+         "Megjelenés dátuma":1268910000000
+      }
+   },
+   {
+      "könyv":{
+         "Szerző":"Douglas Adams",
+         "Cím":"Galaxis útikalauz stopposoknak",
+         "Státusz":"selejt",
+         "Azonosító":4,
+         "Megjelenés dátuma":564646546000
+      }
+   },
+   {
+      "könyv":{
+         "Szerző":"Barna Dániel",
+         "Cím":"Dávincsi Kaud",
+         "Státusz":"kikölcsönzött",
+         "Azonosító":5,
+         "Megjelenés dátuma":1588168257897
+      }
+   },
+   {
+      "könyv":{
+         "Szerző":"Andrzej Sapkowski",
+         "Cím":"Vaják",
+         "Státusz":"szabad",
+         "Azonosító":3,
+         "Megjelenés dátuma":861889931696
+      }
+   }
+]
