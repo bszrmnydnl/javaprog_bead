@@ -11,7 +11,6 @@ public class Book {
 	private Date dateOfRelease;
 	private String status;
 
-	
 	public Book() {
 	}
 

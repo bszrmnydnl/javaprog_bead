@@ -21,7 +21,6 @@ import java.util.Date;
 import java.util.Properties;
 import java.awt.event.ActionEvent;
 
-
 public class EditEntryDialog extends JDialog {
 
 	private static final long serialVersionUID = 1L;
