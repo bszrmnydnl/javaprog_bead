@@ -23,6 +23,7 @@ import javax.swing.SwingConstants;
 
 public class NewEntryDialog extends JDialog {
 
+	
 	private static final long serialVersionUID = 1L;
 	private final JPanel contentPanel = new JPanel();
 	private JTextField tfId;

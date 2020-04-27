@@ -10,6 +10,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Date;
 
+
 public class DatabaseManager {
 
 	public static void jdbcJar() throws ClassNotFoundException {
